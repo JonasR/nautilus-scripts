@@ -18,3 +18,11 @@ Depends on:
 Output files are always in .flac format, because the others suck
 
 [cue2track, A more powerful alternative I didn't know about] (https://code.google.com/p/cue2tracks/downloads/list)
+
+pdfExtr.sh
+----------------------
+Extract pages from pdf files (I always forget pdftk's syntax...)
+
+Depends on:
+* pdftk
+* zenity
