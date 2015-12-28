@@ -26,3 +26,11 @@ Extract pages from pdf files (I always forget pdftk's syntax...)
 Depends on:
 * pdftk
 * zenity
+
+makeGif.sh
+----------------------
+Creates a high-quality GIF from an input video file.
+
+Depends on:
+* ffmpeg
+* zenity
