@@ -34,3 +34,11 @@ Creates a high-quality GIF from an input video file.
 Depends on:
 * ffmpeg
 * zenity
+
+makeWebM.sh
+----------------------
+Creates a non-audio WebM from an input video file.
+
+Depends on:
+* ffmpeg
+* zenity
